@@ -6,6 +6,10 @@
 #include "rest.h"
 #include "buffer.h"
 
+////////////////////////////
+#include "dev/leds.h"
+////////////////////////////
+
 #define DEBUG 1
 #if DEBUG
 #include <stdio.h>
@@ -30,10 +34,7 @@ static struct etimer et;
 #define MAX_PAYLOAD_LEN   100
 
 #define NUMBER_OF_URLS 3
-char* service_urls[NUMBER_OF_URLS] = {"togglered", "togglegreen", "toggleblue"};
-
-//ADDED
-int current = 0;
+char* service_urls[NUMBER_OF_URLS] = {"togglered", "toggleblue", "togglegreen"};
 
 static void
 response_handler(coap_packet_t* response)
@@ -42,48 +43,26 @@ response_handler(coap_packet_t* response)
   uint8_t* payload = NULL;
   payload_len = coap_get_payload(response, &payload);
 
-  size_t len = 0;
-  const char *color = NULL;
-  const char *mode = NULL;
-  uint8_t led = 0;
-  int success = 1;
-
   PRINTF("Response transaction id: %u", response->tid);
   if (payload) {
     memcpy(temp, payload, payload_len);
     temp[payload_len] = 0;
     PRINTF(" payload: %s\n", temp);
-    //ADDED this so that when the payload equals a certain value it will toggle an LED light
-    //When it toggles it only allows toggling for one until that one toggled then it allows for the next
-    //After which when all 3 are toggled it toggles them all again and starts again? or just stops.
-    //Response time can be for how quickly it takes for each light to light up.
-    //Having the 'fog' computer allows it to distribute workload at that point.
-    if (strncmp(temp, "Light Red", len)==0) {
-          led = LEDS_RED;
-          leds_on(led);
-          current ++;
-          send_data();
-        } else if(strncmp(temp,"Light Green", len)==0) {
-          led = LEDS_GREEN;
-          leds_on(led);
-          current ++;
-          send_data();
-        } else if (strncmp(temp,"Light Blue", len)==0) {
-          led = LEDS_BLUE;
-          leds_on(led);
-        } else {
-          success = 0;
-        }
-      } else {
-        success = 0;
-      }
-
-      if (!success) {
-        REST.set_response_status(response, REST.status.BAD_REQUEST);
-      }
-
+////////////////////////////////////////////////////////////////////////////////////////////
+  if (strncmp(temp, "Light Red\n", temp)==0) {
+          leds_on(LEDS_RED);
+          } else if(strncmp(temp,"Light Green\n", temp)==0) {
+     //       led = LEDS_GREEN;
+            leds_on(LEDS_GREEN);
+    //        current ++;
+            //send_data();
+          } else if (strncmp(temp,"Light Blue\n", temp)==0) {
+    //        led = LEDS_BLUE;
+            leds_on(LEDS_BLUE);
+          }
+////////////////////////////////////////////////////////////////////////////////////////////
+  }
 }
-
 
 static void
 send_data(void)
@@ -92,7 +71,7 @@ send_data(void)
 
   if (init_buffer(COAP_DATA_BUFF_SIZE)) {
     int data_size = 0;
-    int service_id = current;
+    int service_id = random_rand() % NUMBER_OF_URLS;
     coap_packet_t* request = (coap_packet_t*)allocate_buffer(sizeof(coap_packet_t));
     init_packet(request);
 
@@ -128,13 +107,72 @@ handle_incoming_data()
   }
 }
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+RESOURCE(led, METHOD_POST | METHOD_PUT , "led");
+
+void
+led_handler(REQUEST* request, RESPONSE* response)
+{
+  char color[10];
+  char mode[10];
+  uint8_t led = 0;
+  int success = 1;
+
+  if (rest_get_query_variable(request, "color", color, 10)) {
+    PRINTF("color %s\n", color);
+
+    if (!strcmp(color,"red")) {
+      led = LEDS_RED;
+    } else if(!strcmp(color,"green")) {
+      led = LEDS_GREEN;
+    } else if ( !strcmp(color,"blue") ) {
+      led = LEDS_BLUE;
+    } else {
+      success = 0;
+    }
+  } else {
+    success = 0;
+  }
+
+  if (success && rest_get_post_variable(request, "mode", mode, 10)) {
+    PRINTF("mode %s\n", mode);
+
+    if (!strcmp(mode, "on")) {
+      leds_on(led);
+    } else if (!strcmp(mode, "off")) {
+      leds_off(led);
+    } else {
+      success = 0;
+    }
+  } else {
+    success = 0;
+  }
+
+  if (!success) {
+    rest_set_response_status(response, BAD_REQUEST_400);
+  }
+}
+
+
+/*A simple actuator example. Toggles the red led*/
+RESOURCE(toggle, METHOD_GET | METHOD_PUT | METHOD_POST, "toggle");
+void
+toggle_handler(REQUEST* request, RESPONSE* response)
+{
+  leds_toggle(LEDS_RED);
+}
+///////////////////////////////////////////////////////////////////
+
 PROCESS(coap_client_example, "COAP Client Example");
 AUTOSTART_PROCESSES(&coap_client_example);
 
 PROCESS_THREAD(coap_client_example, ev, data)
 {
   PROCESS_BEGIN();
-
+////////////////////////////////////////////////////
+  rest_activate_resource(&resource_led);
+  rest_activate_resource(&resource_toggle);
+////////////////////////////////////////////////////
   SERVER_NODE(&server_ipaddr);
 
   /* new connection with server */
