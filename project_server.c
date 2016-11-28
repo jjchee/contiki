@@ -508,6 +508,8 @@ pushing_periodic_handler(resource_t *r)
 }
 #endif
 
+
+ 
 /******************************************************************************/
 #if REST_RES_EVENT && defined (PLATFORM_HAS_BUTTON)
 /*
@@ -516,13 +518,21 @@ pushing_periodic_handler(resource_t *r)
  * A default post_handler takes care of subscriptions and manages a list of subscribers to notify.
  */
 EVENT_RESOURCE(event, METHOD_GET, "sensors/button", "title=\"Event demo\";obs");
+/*
+char * char_repeat( int n, char c ) {
+  char * dest = malloc(n+1);
+  memset(dest, c, n);
+  dest[n] = '\0';
+  return dest;
+}*/
 
 void
 event_handler(void* request, void* response, uint8_t *buffer, uint16_t preferred_size, int32_t *offset)
 {
   REST.set_header_content_type(response, REST.type.TEXT_PLAIN);
   /* Usually, a CoAP server would response with the current resource representation. */
-  const char *msg = "It's eventful!";
+
+  char *msg = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
   REST.set_response_payload(response, (uint8_t *)msg, strlen(msg));
 
   /* A post_handler that handles subscriptions/observing will be called for periodic resources by the framework. */
