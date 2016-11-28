@@ -1,456 +1,387 @@
-00:53.266	ID:3	--Requesting sensors/button--
-00:53.796	ID:3	|aaaaaaaaaaaaaaa
-00:53.797	ID:3	--Done--
-00:53.799	ID:3	--Requesting sensors/button--
-00:54.028	ID:3	|aaaaaaaaaaaaaaa
-00:54.028	ID:3	--Done--
-00:54.031	ID:3	--Requesting sensors/button--
-00:54.266	ID:3	|aaaaaaaaaaaaaaa
-00:54.266	ID:3	--Done--
-00:54.269	ID:3	--Requesting sensors/button--
-00:54.504	ID:3	|aaaaaaaaaaaaaaa
-00:54.505	ID:3	--Done--
-01:01.191	ID:3	--Requesting sensors/button--
-01:01.367	ID:3	|aaaaaaaaaaaaaaa
-01:01.368	ID:3	--Done--
-01:11.191	ID:3	--Requesting sensors/button--
-01:11.480	ID:3	|aaaaaaaaaaaaaaa
-01:11.481	ID:3	--Done--
-01:21.191	ID:3	--Requesting sensors/button--
-01:21.468	ID:3	|aaaaaaaaaaaaaaa
-01:21.469	ID:3	--Done--
-01:31.191	ID:3	--Requesting sensors/button--
-01:31.457	ID:3	|aaaaaaaaaaaaaaa
-01:31.457	ID:3	--Done--
-01:41.191	ID:3	--Requesting sensors/button--
-01:41.445	ID:3	|aaaaaaaaaaaaaaa
-01:41.445	ID:3	--Done--
-01:51.191	ID:3	--Requesting sensors/button--
-01:51.434	ID:3	|aaaaaaaaaaaaaaa
-01:51.435	ID:3	--Done--
-02:01.191	ID:3	--Requesting sensors/button--
-02:01.421	ID:3	|aaaaaaaaaaaaaaa
-02:01.422	ID:3	--Done--
-02:11.191	ID:3	--Requesting sensors/button--
-02:11.410	ID:3	|aaaaaaaaaaaaaaa
-02:11.410	ID:3	--Done--
-02:21.191	ID:3	--Requesting sensors/button--
-02:21.398	ID:3	|aaaaaaaaaaaaaaa
-02:21.398	ID:3	--Done--
-02:31.191	ID:3	--Requesting sensors/button--
-02:31.386	ID:3	|aaaaaaaaaaaaaaa
-02:31.386	ID:3	--Done--
-02:41.191	ID:3	--Requesting sensors/button--
-02:41.374	ID:3	|aaaaaaaaaaaaaaa
-02:41.374	ID:3	--Done--
-02:51.191	ID:3	--Requesting sensors/button--
-02:51.362	ID:3	|aaaaaaaaaaaaaaa
-02:51.363	ID:3	--Done--
-03:01.191	ID:3	--Requesting sensors/button--
-03:01.475	ID:3	|aaaaaaaaaaaaaaa
-03:01.476	ID:3	--Done--
-03:11.191	ID:3	--Requesting sensors/button--
-03:11.464	ID:3	|aaaaaaaaaaaaaaa
-03:11.464	ID:3	--Done--
-03:21.191	ID:3	--Requesting sensors/button--
-03:21.451	ID:3	|aaaaaaaaaaaaaaa
-03:21.452	ID:3	--Done--
-03:31.191	ID:3	--Requesting sensors/button--
-03:31.440	ID:3	|aaaaaaaaaaaaaaa
-03:31.441	ID:3	--Done--
-03:41.191	ID:3	--Requesting sensors/button--
-03:41.428	ID:3	|aaaaaaaaaaaaaaa
-03:41.428	ID:3	--Done--
-03:51.191	ID:3	--Requesting sensors/button--
-03:51.416	ID:3	|aaaaaaaaaaaaaaa
-03:51.417	ID:3	--Done--
-04:01.191	ID:3	--Requesting sensors/button--
-04:01.404	ID:3	|aaaaaaaaaaaaaaa
-04:01.405	ID:3	--Done--
-04:11.191	ID:3	--Requesting sensors/button--
-04:11.392	ID:3	|aaaaaaaaaaaaaaa
-04:11.393	ID:3	--Done--
-04:21.191	ID:3	--Requesting sensors/button--
-04:21.381	ID:3	|aaaaaaaaaaaaaaa
-04:21.381	ID:3	--Done--
-04:31.191	ID:3	--Requesting sensors/button--
-04:31.369	ID:3	|aaaaaaaaaaaaaaa
-04:31.369	ID:3	--Done--
-04:41.191	ID:3	--Requesting sensors/button--
-04:41.482	ID:3	|aaaaaaaaaaaaaaa
-04:41.482	ID:3	--Done--
-04:51.191	ID:3	--Requesting sensors/button--
-04:51.470	ID:3	|aaaaaaaaaaaaaaa
-04:51.471	ID:3	--Done--
-05:01.191	ID:3	--Requesting sensors/button--
-05:01.458	ID:3	|aaaaaaaaaaaaaaa
-05:01.459	ID:3	--Done--
-05:11.191	ID:3	--Requesting sensors/button--
-05:11.446	ID:3	|aaaaaaaaaaaaaaa
-05:11.447	ID:3	--Done--
-05:21.191	ID:3	--Requesting sensors/button--
-05:21.435	ID:3	|aaaaaaaaaaaaaaa
-05:21.436	ID:3	--Done--
-05:31.191	ID:3	--Requesting sensors/button--
-05:31.423	ID:3	|aaaaaaaaaaaaaaa
-05:31.423	ID:3	--Done--
-05:41.191	ID:3	--Requesting sensors/button--
-05:41.411	ID:3	|aaaaaaaaaaaaaaa
-05:41.411	ID:3	--Done--
-05:51.191	ID:3	--Requesting sensors/button--
-05:51.399	ID:3	|aaaaaaaaaaaaaaa
-05:51.399	ID:3	--Done--
-06:01.191	ID:3	--Requesting sensors/button--
-06:01.387	ID:3	|aaaaaaaaaaaaaaa
-06:01.388	ID:3	--Done--
-06:11.191	ID:3	--Requesting sensors/button--
-06:11.375	ID:3	|aaaaaaaaaaaaaaa
-06:11.376	ID:3	--Done--
-06:21.191	ID:3	--Requesting sensors/button--
-06:21.363	ID:3	|aaaaaaaaaaaaaaa
-06:21.364	ID:3	--Done--
-06:31.191	ID:3	--Requesting sensors/button--
-06:31.477	ID:3	|aaaaaaaaaaaaaaa
-06:31.477	ID:3	--Done--
-06:41.191	ID:3	--Requesting sensors/button--
-06:41.465	ID:3	|aaaaaaaaaaaaaaa
-06:41.465	ID:3	--Done--
-06:51.191	ID:3	--Requesting sensors/button--
-06:51.453	ID:3	|aaaaaaaaaaaaaaa
-06:51.453	ID:3	--Done--
-07:01.191	ID:3	--Requesting sensors/button--
-07:01.441	ID:3	|aaaaaaaaaaaaaaa
-07:01.441	ID:3	--Done--
-07:11.191	ID:3	--Requesting sensors/button--
-07:11.429	ID:3	|aaaaaaaaaaaaaaa
-07:11.430	ID:3	--Done--
-07:21.191	ID:3	--Requesting sensors/button--
-07:21.417	ID:3	|aaaaaaaaaaaaaaa
-07:21.418	ID:3	--Done--
-07:31.191	ID:3	--Requesting sensors/button--
-07:31.405	ID:3	|aaaaaaaaaaaaaaa
-07:31.406	ID:3	--Done--
-07:41.191	ID:3	--Requesting sensors/button--
-07:41.393	ID:3	|aaaaaaaaaaaaaaa
-07:41.394	ID:3	--Done--
-07:51.191	ID:3	--Requesting sensors/button--
-07:51.382	ID:3	|aaaaaaaaaaaaaaa
-07:51.382	ID:3	--Done--
-08:01.191	ID:3	--Requesting sensors/button--
-08:01.370	ID:3	|aaaaaaaaaaaaaaa
-08:01.370	ID:3	--Done--
-08:11.191	ID:3	--Requesting sensors/button--
-08:11.483	ID:3	|aaaaaaaaaaaaaaa
-08:11.483	ID:3	--Done--
-08:21.191	ID:3	--Requesting sensors/button--
-08:21.471	ID:3	|aaaaaaaaaaaaaaa
-08:21.472	ID:3	--Done--
-08:31.191	ID:3	--Requesting sensors/button--
-08:31.459	ID:3	|aaaaaaaaaaaaaaa
-08:31.460	ID:3	--Done--
-08:41.191	ID:3	--Requesting sensors/button--
-08:41.447	ID:3	|aaaaaaaaaaaaaaa
-08:41.448	ID:3	--Done--
-08:51.191	ID:3	--Requesting sensors/button--
-08:51.436	ID:3	|aaaaaaaaaaaaaaa
-08:51.437	ID:3	--Done--
-09:01.191	ID:3	--Requesting sensors/button--
-09:01.424	ID:3	|aaaaaaaaaaaaaaa
-09:01.424	ID:3	--Done--
-09:11.191	ID:3	--Requesting sensors/button--
-09:11.412	ID:3	|aaaaaaaaaaaaaaa
-09:11.413	ID:3	--Done--
-09:21.191	ID:3	--Requesting sensors/button--
-09:21.400	ID:3	|aaaaaaaaaaaaaaa
-09:21.400	ID:3	--Done--
-09:31.191	ID:3	--Requesting sensors/button--
-09:31.388	ID:3	|aaaaaaaaaaaaaaa
-09:31.389	ID:3	--Done--
-09:41.191	ID:3	--Requesting sensors/button--
-09:41.376	ID:3	|aaaaaaaaaaaaaaa
-09:41.377	ID:3	--Done--
-09:51.191	ID:3	--Requesting sensors/button--
-09:51.364	ID:3	|aaaaaaaaaaaaaaa
-09:51.365	ID:3	--Done--
-10:01.191	ID:3	--Requesting sensors/button--
-10:01.477	ID:3	|aaaaaaaaaaaaaaa
-10:01.478	ID:3	--Done--
-10:11.191	ID:3	--Requesting sensors/button--
-10:11.466	ID:3	|aaaaaaaaaaaaaaa
-10:11.466	ID:3	--Done--
-10:21.191	ID:3	--Requesting sensors/button--
-10:21.442	ID:3	|aaaaaaaaaaaaaaa
-10:21.443	ID:3	--Done--
-10:31.191	ID:3	--Requesting sensors/button--
-10:31.430	ID:3	|aaaaaaaaaaaaaaa
-10:31.431	ID:3	--Done--
-10:41.191	ID:3	--Requesting sensors/button--
-10:41.406	ID:3	|aaaaaaaaaaaaaaa
-10:41.407	ID:3	--Done--
-10:51.191	ID:3	--Requesting sensors/button--
-10:51.394	ID:3	|aaaaaaaaaaaaaaa
-10:51.395	ID:3	--Done--
-11:01.191	ID:3	--Requesting sensors/button--
-11:01.382	ID:3	|aaaaaaaaaaaaaaa
-11:01.383	ID:3	--Done--
-11:11.191	ID:3	--Requesting sensors/button--
-11:11.371	ID:3	|aaaaaaaaaaaaaaa
-11:11.371	ID:3	--Done--
-11:21.191	ID:3	--Requesting sensors/button--
-11:21.483	ID:3	|aaaaaaaaaaaaaaa
-11:21.484	ID:3	--Done--
-11:31.191	ID:3	--Requesting sensors/button--
-11:31.472	ID:3	|aaaaaaaaaaaaaaa
-11:31.472	ID:3	--Done--
-11:41.191	ID:3	--Requesting sensors/button--
-11:41.460	ID:3	|aaaaaaaaaaaaaaa
-11:41.461	ID:3	--Done--
-11:51.191	ID:3	--Requesting sensors/button--
-11:51.448	ID:3	|aaaaaaaaaaaaaaa
-11:51.449	ID:3	--Done--
-12:01.191	ID:3	--Requesting sensors/button--
-12:01.436	ID:3	|aaaaaaaaaaaaaaa
-12:01.437	ID:3	--Done--
-12:11.191	ID:3	--Requesting sensors/button--
-12:11.424	ID:3	|aaaaaaaaaaaaaaa
-12:11.425	ID:3	--Done--
-12:21.191	ID:3	--Requesting sensors/button--
-12:21.413	ID:3	|aaaaaaaaaaaaaaa
-12:21.413	ID:3	--Done--
-12:31.191	ID:3	--Requesting sensors/button--
-12:31.401	ID:3	|aaaaaaaaaaaaaaa
-12:31.401	ID:3	--Done--
-12:41.191	ID:3	--Requesting sensors/button--
-12:41.389	ID:3	|aaaaaaaaaaaaaaa
-12:41.390	ID:3	--Done--
-12:51.191	ID:3	--Requesting sensors/button--
-12:51.377	ID:3	|aaaaaaaaaaaaaaa
-12:51.377	ID:3	--Done--
-13:01.191	ID:3	--Requesting sensors/button--
-13:01.365	ID:3	|aaaaaaaaaaaaaaa
-13:01.366	ID:3	--Done--
-13:11.191	ID:3	--Requesting sensors/button--
-13:11.478	ID:3	|aaaaaaaaaaaaaaa
-13:11.479	ID:3	--Done--
-13:21.191	ID:3	--Requesting sensors/button--
-13:21.466	ID:3	|aaaaaaaaaaaaaaa
-13:21.467	ID:3	--Done--
-13:31.191	ID:3	--Requesting sensors/button--
-13:31.454	ID:3	|aaaaaaaaaaaaaaa
-13:31.455	ID:3	--Done--
-13:41.191	ID:3	--Requesting sensors/button--
-13:41.443	ID:3	|aaaaaaaaaaaaaaa
-13:41.443	ID:3	--Done--
-13:51.191	ID:3	--Requesting sensors/button--
-13:51.431	ID:3	|aaaaaaaaaaaaaaa
-13:51.431	ID:3	--Done--
-14:01.191	ID:3	--Requesting sensors/button--
-14:01.419	ID:3	|aaaaaaaaaaaaaaa
-14:01.420	ID:3	--Done--
-14:11.191	ID:3	--Requesting sensors/button--
-14:11.407	ID:3	|aaaaaaaaaaaaaaa
-14:11.408	ID:3	--Done--
-14:21.191	ID:3	--Requesting sensors/button--
-14:21.396	ID:3	|aaaaaaaaaaaaaaa
-14:21.396	ID:3	--Done--
-14:31.191	ID:3	--Requesting sensors/button--
-14:31.383	ID:3	|aaaaaaaaaaaaaaa
-14:31.384	ID:3	--Done--
-14:41.191	ID:3	--Requesting sensors/button--
-14:41.372	ID:3	|aaaaaaaaaaaaaaa
-14:41.372	ID:3	--Done--
-14:51.191	ID:3	--Requesting sensors/button--
-14:51.485	ID:3	|aaaaaaaaaaaaaaa
-14:51.485	ID:3	--Done--
-15:01.191	ID:3	--Requesting sensors/button--
-15:01.473	ID:3	|aaaaaaaaaaaaaaa
-15:01.474	ID:3	--Done--
-15:11.191	ID:3	--Requesting sensors/button--
-15:11.461	ID:3	|aaaaaaaaaaaaaaa
-15:11.462	ID:3	--Done--
-15:21.191	ID:3	--Requesting sensors/button--
-15:21.449	ID:3	|aaaaaaaaaaaaaaa
-15:21.450	ID:3	--Done--
-15:31.191	ID:3	--Requesting sensors/button--
-15:31.444	ID:3	|aaaaaaaaaaaaaaa
-15:31.445	ID:3	--Done--
-15:41.191	ID:3	--Requesting sensors/button--
-15:41.426	ID:3	|aaaaaaaaaaaaaaa
-15:41.426	ID:3	--Done--
-15:51.191	ID:3	--Requesting sensors/button--
-15:51.289	ID:3	|aaaaaaaaaaaaaaa
-15:51.289	ID:3	--Done--
-16:01.191	ID:3	--Requesting sensors/button--
-16:01.390	ID:3	|aaaaaaaaaaaaaaa
-16:01.391	ID:3	--Done--
-16:11.191	ID:3	--Requesting sensors/button--
-16:11.366	ID:3	|aaaaaaaaaaaaaaa
-16:11.367	ID:3	--Done--
-16:21.191	ID:3	--Requesting sensors/button--
-16:21.480	ID:3	|aaaaaaaaaaaaaaa
-16:21.480	ID:3	--Done--
-16:31.191	ID:3	--Requesting sensors/button--
-16:31.468	ID:3	|aaaaaaaaaaaaaaa
-16:31.468	ID:3	--Done--
-16:41.191	ID:3	--Requesting sensors/button--
-16:41.456	ID:3	|aaaaaaaaaaaaaaa
-16:41.457	ID:3	--Done--
-16:51.191	ID:3	--Requesting sensors/button--
-16:51.444	ID:3	|aaaaaaaaaaaaaaa
-16:51.445	ID:3	--Done--
-17:01.191	ID:3	--Requesting sensors/button--
-17:01.432	ID:3	|aaaaaaaaaaaaaaa
-17:01.433	ID:3	--Done--
-17:11.191	ID:3	--Requesting sensors/button--
-17:11.420	ID:3	|aaaaaaaaaaaaaaa
-17:11.421	ID:3	--Done--
-17:21.191	ID:3	--Requesting sensors/button--
-17:21.408	ID:3	|aaaaaaaaaaaaaaa
-17:21.409	ID:3	--Done--
-17:31.191	ID:3	--Requesting sensors/button--
-17:31.397	ID:3	|aaaaaaaaaaaaaaa
-17:31.397	ID:3	--Done--
-17:41.191	ID:3	--Requesting sensors/button--
-17:41.385	ID:3	|aaaaaaaaaaaaaaa
-17:41.385	ID:3	--Done--
-17:51.191	ID:3	--Requesting sensors/button--
-17:51.373	ID:3	|aaaaaaaaaaaaaaa
-17:51.374	ID:3	--Done--
-18:01.191	ID:3	--Requesting sensors/button--
-18:01.361	ID:3	|aaaaaaaaaaaaaaa
-18:01.362	ID:3	--Done--
-18:11.191	ID:3	--Requesting sensors/button--
-18:11.474	ID:3	|aaaaaaaaaaaaaaa
-18:11.475	ID:3	--Done--
-18:21.191	ID:3	--Requesting sensors/button--
-18:21.462	ID:3	|aaaaaaaaaaaaaaa
-18:21.463	ID:3	--Done--
-18:31.191	ID:3	--Requesting sensors/button--
-18:31.451	ID:3	|aaaaaaaaaaaaaaa
-18:31.451	ID:3	--Done--
-18:41.191	ID:3	--Requesting sensors/button--
-18:41.439	ID:3	|aaaaaaaaaaaaaaa
-18:41.439	ID:3	--Done--
-18:51.191	ID:3	--Requesting sensors/button--
-18:51.427	ID:3	|aaaaaaaaaaaaaaa
-18:51.428	ID:3	--Done--
-19:01.191	ID:3	--Requesting sensors/button--
-19:01.415	ID:3	|aaaaaaaaaaaaaaa
-19:01.416	ID:3	--Done--
-19:11.191	ID:3	--Requesting sensors/button--
-19:11.404	ID:3	|aaaaaaaaaaaaaaa
-19:11.404	ID:3	--Done--
-19:21.191	ID:3	--Requesting sensors/button--
-19:21.391	ID:3	|aaaaaaaaaaaaaaa
-19:21.392	ID:3	--Done--
-19:31.191	ID:3	--Requesting sensors/button--
-19:31.379	ID:3	|aaaaaaaaaaaaaaa
-19:31.380	ID:3	--Done--
-19:41.191	ID:3	--Requesting sensors/button--
-19:41.367	ID:3	|aaaaaaaaaaaaaaa
-19:41.368	ID:3	--Done--
-19:51.191	ID:3	--Requesting sensors/button--
-19:51.481	ID:3	|aaaaaaaaaaaaaaa
-19:51.481	ID:3	--Done--
-20:01.191	ID:3	--Requesting sensors/button--
-20:01.469	ID:3	|aaaaaaaaaaaaaaa
-20:01.469	ID:3	--Done--
-20:11.191	ID:3	--Requesting sensors/button--
-20:11.457	ID:3	|aaaaaaaaaaaaaaa
-20:11.458	ID:3	--Done--
-20:21.191	ID:3	--Requesting sensors/button--
-20:21.445	ID:3	|aaaaaaaaaaaaaaa
-20:21.445	ID:3	--Done--
-20:31.191	ID:3	--Requesting sensors/button--
-20:31.433	ID:3	|aaaaaaaaaaaaaaa
-20:31.434	ID:3	--Done--
-20:41.191	ID:3	--Requesting sensors/button--
-20:41.421	ID:3	|aaaaaaaaaaaaaaa
-20:41.422	ID:3	--Done--
-20:51.191	ID:3	--Requesting sensors/button--
-20:51.409	ID:3	|aaaaaaaaaaaaaaa
-20:51.410	ID:3	--Done--
-21:01.191	ID:3	--Requesting sensors/button--
-21:01.397	ID:3	|aaaaaaaaaaaaaaa
-21:01.398	ID:3	--Done--
-21:11.191	ID:3	--Requesting sensors/button--
-21:11.386	ID:3	|aaaaaaaaaaaaaaa
-21:11.386	ID:3	--Done--
-21:21.191	ID:3	--Requesting sensors/button--
-21:21.249	ID:3	|aaaaaaaaaaaaaaa
-21:21.249	ID:3	--Done--
-21:31.191	ID:3	--Requesting sensors/button--
-21:31.362	ID:3	|aaaaaaaaaaaaaaa
-21:31.363	ID:3	--Done--
-21:41.191	ID:3	--Requesting sensors/button--
-21:41.451	ID:3	|aaaaaaaaaaaaaaa
-21:41.452	ID:3	--Done--
-21:51.191	ID:3	--Requesting sensors/button--
-21:51.440	ID:3	|aaaaaaaaaaaaaaa
-21:51.440	ID:3	--Done--
-22:01.191	ID:3	--Requesting sensors/button--
-22:01.428	ID:3	|aaaaaaaaaaaaaaa
-22:01.428	ID:3	--Done--
-22:11.191	ID:3	--Requesting sensors/button--
-22:11.416	ID:3	|aaaaaaaaaaaaaaa
-22:11.417	ID:3	--Done--
-22:21.191	ID:3	--Requesting sensors/button--
-22:21.404	ID:3	|aaaaaaaaaaaaaaa
-22:21.405	ID:3	--Done--
-22:31.191	ID:3	--Requesting sensors/button--
-22:31.392	ID:3	|aaaaaaaaaaaaaaa
-22:31.393	ID:3	--Done--
-22:41.191	ID:3	--Requesting sensors/button--
-22:41.381	ID:3	|aaaaaaaaaaaaaaa
-22:41.381	ID:3	--Done--
-22:51.191	ID:3	--Requesting sensors/button--
-22:51.369	ID:3	|aaaaaaaaaaaaaaa
-22:51.369	ID:3	--Done--
-23:01.191	ID:3	--Requesting sensors/button--
-23:01.482	ID:3	|aaaaaaaaaaaaaaa
-23:01.482	ID:3	--Done--
-23:11.191	ID:3	--Requesting sensors/button--
-23:11.470	ID:3	|aaaaaaaaaaaaaaa
-23:11.470	ID:3	--Done--
-23:21.191	ID:3	--Requesting sensors/button--
-23:21.458	ID:3	|aaaaaaaaaaaaaaa
-23:21.459	ID:3	--Done--
-23:31.191	ID:3	--Requesting sensors/button--
-23:31.446	ID:3	|aaaaaaaaaaaaaaa
-23:31.447	ID:3	--Done--
-23:41.191	ID:3	--Requesting sensors/button--
-23:41.434	ID:3	|aaaaaaaaaaaaaaa
-23:41.435	ID:3	--Done--
-23:51.191	ID:3	--Requesting sensors/button--
-23:51.423	ID:3	|aaaaaaaaaaaaaaa
-23:51.423	ID:3	--Done--
-24:01.191	ID:3	--Requesting sensors/button--
-24:01.411	ID:3	|aaaaaaaaaaaaaaa
-24:01.411	ID:3	--Done--
-24:11.191	ID:3	--Requesting sensors/button--
-24:11.399	ID:3	|aaaaaaaaaaaaaaa
-24:11.400	ID:3	--Done--
-24:21.191	ID:3	--Requesting sensors/button--
-24:21.387	ID:3	|aaaaaaaaaaaaaaa
-24:21.388	ID:3	--Done--
-24:31.191	ID:3	--Requesting sensors/button--
-24:31.375	ID:3	|aaaaaaaaaaaaaaa
-24:31.376	ID:3	--Done--
-24:41.191	ID:3	--Requesting sensors/button--
-24:41.363	ID:3	|aaaaaaaaaaaaaaa
-24:41.364	ID:3	--Done--
-24:51.191	ID:3	--Requesting sensors/button--
-24:51.477	ID:3	|aaaaaaaaaaaaaaa
-24:51.477	ID:3	--Done--
-25:01.191	ID:3	--Requesting sensors/button--
-25:01.465	ID:3	|aaaaaaaaaaaaaaa
-25:01.466	ID:3	--Done--
-25:11.191	ID:3	--Requesting sensors/button--
-25:11.453	ID:3	|aaaaaaaaaaaaaaa
-25:11.454	ID:3	--Done--
-25:21.191	ID:3	--Requesting sensors/button--
-25:21.441	ID:3	|aaaaaaaaaaaaaaa
-25:21.442	ID:3	--Done--
-25:31.191	ID:3	--Requesting sensors/button--
-25:31.429	ID:3	|aaaaaaaaaaaaaaa
-25:31.430	ID:3	--Done--
+37:31.191	ID:3	--Requesting sensors/button--
+37:31.403	ID:3	|aaaaaaaaaaaaaaa
+37:31.404	ID:3	--Done--
+37:41.191	ID:3	--Requesting sensors/button--
+37:41.391	ID:3	|aaaaaaaaaaaaaaa
+37:41.392	ID:3	--Done--
+37:51.191	ID:3	--Requesting sensors/button--
+37:51.255	ID:3	|aaaaaaaaaaaaaaa
+37:51.255	ID:3	--Done--
+38:01.191	ID:3	--Requesting sensors/button--
+38:01.368	ID:3	|aaaaaaaaaaaaaaa
+38:01.368	ID:3	--Done--
+38:11.191	ID:3	--Requesting sensors/button--
+38:11.344	ID:3	|aaaaaaaaaaaaaaa
+38:11.345	ID:3	--Done--
+38:21.191	ID:3	--Requesting sensors/button--
+38:21.332	ID:3	|aaaaaaaaaaaaaaa
+38:21.333	ID:3	--Done--
+38:31.191	ID:3	--Requesting sensors/button--
+38:31.434	ID:3	|aaaaaaaaaaaaaaa
+38:31.434	ID:3	--Done--
+38:41.191	ID:3	--Requesting sensors/button--
+38:41.422	ID:3	|aaaaaaaaaaaaaaa
+38:41.422	ID:3	--Done--
+38:51.191	ID:3	--Requesting sensors/button--
+38:51.410	ID:3	|aaaaaaaaaaaaaaa
+38:51.410	ID:3	--Done--
+39:01.191	ID:3	--Requesting sensors/button--
+39:01.398	ID:3	|aaaaaaaaaaaaaaa
+39:01.399	ID:3	--Done--
+39:11.191	ID:3	--Requesting sensors/button--
+39:11.386	ID:3	|aaaaaaaaaaaaaaa
+39:11.387	ID:3	--Done--
+39:21.191	ID:3	--Requesting sensors/button--
+39:21.374	ID:3	|aaaaaaaaaaaaaaa
+39:21.375	ID:3	--Done--
+39:31.191	ID:3	--Requesting sensors/button--
+39:31.362	ID:3	|aaaaaaaaaaaaaaa
+39:31.363	ID:3	--Done--
+39:41.191	ID:3	--Requesting sensors/button--
+39:41.476	ID:3	|aaaaaaaaaaaaaaa
+39:41.476	ID:3	--Done--
+39:51.191	ID:3	--Requesting sensors/button--
+39:51.464	ID:3	|aaaaaaaaaaaaaaa
+39:51.464	ID:3	--Done--
+40:01.191	ID:3	--Requesting sensors/button--
+40:01.452	ID:3	|aaaaaaaaaaaaaaa
+40:01.453	ID:3	--Done--
+40:11.191	ID:3	--Requesting sensors/button--
+40:11.440	ID:3	|aaaaaaaaaaaaaaa
+40:11.441	ID:3	--Done--
+40:21.191	ID:3	--Requesting sensors/button--
+40:21.428	ID:3	|aaaaaaaaaaaaaaa
+40:21.429	ID:3	--Done--
+40:31.191	ID:3	--Requesting sensors/button--
+40:31.416	ID:3	|aaaaaaaaaaaaaaa
+40:31.417	ID:3	--Done--
+40:41.191	ID:3	--Requesting sensors/button--
+40:41.405	ID:3	|aaaaaaaaaaaaaaa
+40:41.406	ID:3	--Done--
+40:51.191	ID:3	--Requesting sensors/button--
+40:51.393	ID:3	|aaaaaaaaaaaaaaa
+40:51.393	ID:3	--Done--
+41:01.191	ID:3	--Requesting sensors/button--
+41:01.381	ID:3	|aaaaaaaaaaaaaaa
+41:01.381	ID:3	--Done--
+41:11.191	ID:3	--Requesting sensors/button--
+41:11.369	ID:3	|aaaaaaaaaaaaaaa
+41:11.370	ID:3	--Done--
+41:21.191	ID:3	--Requesting sensors/button--
+41:21.482	ID:3	|aaaaaaaaaaaaaaa
+41:21.483	ID:3	--Done--
+41:31.191	ID:3	--Requesting sensors/button--
+41:31.470	ID:3	|aaaaaaaaaaaaaaa
+41:31.471	ID:3	--Done--
+41:41.191	ID:3	--Requesting sensors/button--
+41:41.458	ID:3	|aaaaaaaaaaaaaaa
+41:41.459	ID:3	--Done--
+41:51.191	ID:3	--Requesting sensors/button--
+41:51.447	ID:3	|aaaaaaaaaaaaaaa
+41:51.447	ID:3	--Done--
+42:01.191	ID:3	--Requesting sensors/button--
+42:01.435	ID:3	|aaaaaaaaaaaaaaa
+42:01.435	ID:3	--Done--
+42:11.191	ID:3	--Requesting sensors/button--
+42:11.423	ID:3	|aaaaaaaaaaaaaaa
+42:11.423	ID:3	--Done--
+42:21.191	ID:3	--Requesting sensors/button--
+42:21.411	ID:3	|aaaaaaaaaaaaaaa
+42:21.412	ID:3	--Done--
+42:31.191	ID:3	--Requesting sensors/button--
+42:31.399	ID:3	|aaaaaaaaaaaaaaa
+42:31.400	ID:3	--Done--
+42:41.191	ID:3	--Requesting sensors/button--
+42:41.387	ID:3	|aaaaaaaaaaaaaaa
+42:41.388	ID:3	--Done--
+42:51.191	ID:3	--Requesting sensors/button--
+42:51.376	ID:3	|aaaaaaaaaaaaaaa
+42:51.376	ID:3	--Done--
+43:01.191	ID:3	--Requesting sensors/button--
+43:01.364	ID:3	|aaaaaaaaaaaaaaa
+43:01.364	ID:3	--Done--
+43:11.191	ID:3	--Requesting sensors/button--
+43:11.477	ID:3	|aaaaaaaaaaaaaaa
+43:11.477	ID:3	--Done--
+43:21.191	ID:3	--Requesting sensors/button--
+43:21.341	ID:3	|aaaaaaaaaaaaaaa
+43:21.341	ID:3	--Done--
+43:31.191	ID:3	--Requesting sensors/button--
+43:31.328	ID:3	|aaaaaaaaaaaaaaa
+43:31.329	ID:3	--Done--
+43:41.191	ID:3	--Requesting sensors/button--
+43:41.305	ID:3	|aaaaaaaaaaaaaaa
+43:41.305	ID:3	--Done--
+43:51.191	ID:3	--Requesting sensors/button--
+43:51.293	ID:3	|aaaaaaaaaaaaaaa
+43:51.293	ID:3	--Done--
+44:01.191	ID:3	--Requesting sensors/button--
+44:01.281	ID:3	|aaaaaaaaaaaaaaa
+44:01.282	ID:3	--Done--
+44:11.191	ID:3	--Requesting sensors/button--
+44:11.382	ID:3	|aaaaaaaaaaaaaaa
+44:11.383	ID:3	--Done--
+44:21.191	ID:3	--Requesting sensors/button--
+44:21.370	ID:3	|aaaaaaaaaaaaaaa
+44:21.371	ID:3	--Done--
+44:31.191	ID:3	--Requesting sensors/button--
+44:31.483	ID:3	|aaaaaaaaaaaaaaa
+44:31.484	ID:3	--Done--
+44:41.191	ID:3	--Requesting sensors/button--
+44:41.472	ID:3	|aaaaaaaaaaaaaaa
+44:41.473	ID:3	--Done--
+44:51.191	ID:3	--Requesting sensors/button--
+44:51.460	ID:3	|aaaaaaaaaaaaaaa
+44:51.460	ID:3	--Done--
+45:01.191	ID:3	--Requesting sensors/button--
+45:01.448	ID:3	|aaaaaaaaaaaaaaa
+45:01.449	ID:3	--Done--
+45:11.191	ID:3	--Requesting sensors/button--
+45:11.436	ID:3	|aaaaaaaaaaaaaaa
+45:11.437	ID:3	--Done--
+45:21.191	ID:3	--Requesting sensors/button--
+45:21.425	ID:3	|aaaaaaaaaaaaaaa
+45:21.425	ID:3	--Done--
+45:31.191	ID:3	--Requesting sensors/button--
+45:31.413	ID:3	|aaaaaaaaaaaaaaa
+45:31.413	ID:3	--Done--
+45:41.191	ID:3	--Requesting sensors/button--
+45:41.401	ID:3	|aaaaaaaaaaaaaaa
+45:41.402	ID:3	--Done--
+45:51.191	ID:3	--Requesting sensors/button--
+45:51.389	ID:3	|aaaaaaaaaaaaaaa
+45:51.390	ID:3	--Done--
+46:01.191	ID:3	--Requesting sensors/button--
+46:01.377	ID:3	|aaaaaaaaaaaaaaa
+46:01.378	ID:3	--Done--
+46:11.191	ID:3	--Requesting sensors/button--
+46:11.365	ID:3	|aaaaaaaaaaaaaaa
+46:11.366	ID:3	--Done--
+46:21.191	ID:3	--Requesting sensors/button--
+46:21.479	ID:3	|aaaaaaaaaaaaaaa
+46:21.479	ID:3	--Done--
+46:31.191	ID:3	--Requesting sensors/button--
+46:31.467	ID:3	|aaaaaaaaaaaaaaa
+46:31.468	ID:3	--Done--
+46:41.191	ID:3	--Requesting sensors/button--
+46:41.455	ID:3	|aaaaaaaaaaaaaaa
+46:41.455	ID:3	--Done--
+46:51.191	ID:3	--Requesting sensors/button--
+46:51.443	ID:3	|aaaaaaaaaaaaaaa
+46:51.444	ID:3	--Done--
+47:01.191	ID:3	--Requesting sensors/button--
+47:01.431	ID:3	|aaaaaaaaaaaaaaa
+47:01.432	ID:3	--Done--
+47:11.191	ID:3	--Requesting sensors/button--
+47:11.419	ID:3	|aaaaaaaaaaaaaaa
+47:11.420	ID:3	--Done--
+47:21.191	ID:3	--Requesting sensors/button--
+47:21.408	ID:3	|aaaaaaaaaaaaaaa
+47:21.408	ID:3	--Done--
+47:31.191	ID:3	--Requesting sensors/button--
+47:31.396	ID:3	|aaaaaaaaaaaaaaa
+47:31.396	ID:3	--Done--
+47:41.191	ID:3	--Requesting sensors/button--
+47:41.384	ID:3	|aaaaaaaaaaaaaaa
+47:41.384	ID:3	--Done--
+47:51.191	ID:3	--Requesting sensors/button--
+47:51.372	ID:3	|aaaaaaaaaaaaaaa
+47:51.373	ID:3	--Done--
+48:01.191	ID:3	--Requesting sensors/button--
+48:01.485	ID:3	|aaaaaaaaaaaaaaa
+48:01.486	ID:3	--Done--
+48:11.191	ID:3	--Requesting sensors/button--
+48:11.473	ID:3	|aaaaaaaaaaaaaaa
+48:11.474	ID:3	--Done--
+48:21.191	ID:3	--Requesting sensors/button--
+48:21.461	ID:3	|aaaaaaaaaaaaaaa
+48:21.462	ID:3	--Done--
+48:31.191	ID:3	--Requesting sensors/button--
+48:31.450	ID:3	|aaaaaaaaaaaaaaa
+48:31.450	ID:3	--Done--
+48:41.191	ID:3	--Requesting sensors/button--
+48:41.438	ID:3	|aaaaaaaaaaaaaaa
+48:41.438	ID:3	--Done--
+48:51.191	ID:3	--Requesting sensors/button--
+48:51.301	ID:3	|aaaaaaaaaaaaaaa
+48:51.301	ID:3	--Done--
+49:01.191	ID:3	--Requesting sensors/button--
+49:01.289	ID:3	|aaaaaaaaaaaaaaa
+49:01.290	ID:3	--Done--
+49:11.191	ID:3	--Requesting sensors/button--
+49:11.266	ID:3	|aaaaaaaaaaaaaaa
+49:11.266	ID:3	--Done--
+49:21.191	ID:3	--Requesting sensors/button--
+49:21.253	ID:3	|aaaaaaaaaaaaaaa
+49:21.254	ID:3	--Done--
+49:31.191	ID:3	--Requesting sensors/button--
+49:31.367	ID:3	|aaaaaaaaaaaaaaa
+49:31.367	ID:3	--Done--
+49:41.191	ID:3	--Requesting sensors/button--
+49:41.355	ID:3	|aaaaaaaaaaaaaaa
+49:41.356	ID:3	--Done--
+49:51.191	ID:3	--Requesting sensors/button--
+49:51.456	ID:3	|aaaaaaaaaaaaaaa
+49:51.457	ID:3	--Done--
+50:01.191	ID:3	--Requesting sensors/button--
+50:01.444	ID:3	|aaaaaaaaaaaaaaa
+50:01.445	ID:3	--Done--
+50:11.191	ID:3	--Requesting sensors/button--
+50:11.432	ID:3	|aaaaaaaaaaaaaaa
+50:11.433	ID:3	--Done--
+50:21.191	ID:3	--Requesting sensors/button--
+50:21.421	ID:3	|aaaaaaaaaaaaaaa
+50:21.421	ID:3	--Done--
+50:31.191	ID:3	--Requesting sensors/button--
+50:31.409	ID:3	|aaaaaaaaaaaaaaa
+50:31.409	ID:3	--Done--
+50:41.191	ID:3	--Requesting sensors/button--
+50:41.397	ID:3	|aaaaaaaaaaaaaaa
+50:41.398	ID:3	--Done--
+50:51.191	ID:3	--Requesting sensors/button--
+50:51.385	ID:3	|aaaaaaaaaaaaaaa
+50:51.386	ID:3	--Done--
+51:01.191	ID:3	--Requesting sensors/button--
+51:01.374	ID:3	|aaaaaaaaaaaaaaa
+51:01.374	ID:3	--Done--
+51:11.191	ID:3	--Requesting sensors/button--
+51:11.361	ID:3	|aaaaaaaaaaaaaaa
+51:11.362	ID:3	--Done--
+51:21.191	ID:3	--Requesting sensors/button--
+51:21.474	ID:3	|aaaaaaaaaaaaaaa
+51:21.475	ID:3	--Done--
+51:31.191	ID:3	--Requesting sensors/button--
+51:31.463	ID:3	|aaaaaaaaaaaaaaa
+51:31.463	ID:3	--Done--
+51:41.191	ID:3	--Requesting sensors/button--
+51:41.451	ID:3	|aaaaaaaaaaaaaaa
+51:41.451	ID:3	--Done--
+51:51.191	ID:3	--Requesting sensors/button--
+51:51.439	ID:3	|aaaaaaaaaaaaaaa
+51:51.440	ID:3	--Done--
+52:01.191	ID:3	--Requesting sensors/button--
+52:01.427	ID:3	|aaaaaaaaaaaaaaa
+52:01.428	ID:3	--Done--
+52:11.191	ID:3	--Requesting sensors/button--
+52:11.415	ID:3	|aaaaaaaaaaaaaaa
+52:11.416	ID:3	--Done--
+52:21.191	ID:3	--Requesting sensors/button--
+52:21.403	ID:3	|aaaaaaaaaaaaaaa
+52:21.404	ID:3	--Done--
+52:31.191	ID:3	--Requesting sensors/button--
+52:31.391	ID:3	|aaaaaaaaaaaaaaa
+52:31.392	ID:3	--Done--
+52:41.191	ID:3	--Requesting sensors/button--
+52:41.380	ID:3	|aaaaaaaaaaaaaaa
+52:41.380	ID:3	--Done--
+52:51.191	ID:3	--Requesting sensors/button--
+52:51.368	ID:3	|aaaaaaaaaaaaaaa
+52:51.368	ID:3	--Done--
+53:01.191	ID:3	--Requesting sensors/button--
+53:01.481	ID:3	|aaaaaaaaaaaaaaa
+53:01.482	ID:3	--Done--
+53:11.191	ID:3	--Requesting sensors/button--
+53:11.469	ID:3	|aaaaaaaaaaaaaaa
+53:11.470	ID:3	--Done--
+53:21.191	ID:3	--Requesting sensors/button--
+53:21.457	ID:3	|aaaaaaaaaaaaaaa
+53:21.458	ID:3	--Done--
+53:31.191	ID:3	--Requesting sensors/button--
+53:31.445	ID:3	|aaaaaaaaaaaaaaa
+53:31.446	ID:3	--Done--
+53:41.191	ID:3	--Requesting sensors/button--
+53:41.434	ID:3	|aaaaaaaaaaaaaaa
+53:41.434	ID:3	--Done--
+53:51.191	ID:3	--Requesting sensors/button--
+53:51.422	ID:3	|aaaaaaaaaaaaaaa
+53:51.422	ID:3	--Done--
+54:01.191	ID:3	--Requesting sensors/button--
+54:01.410	ID:3	|aaaaaaaaaaaaaaa
+54:01.411	ID:3	--Done--
+54:11.191	ID:3	--Requesting sensors/button--
+54:11.398	ID:3	|aaaaaaaaaaaaaaa
+54:11.399	ID:3	--Done--
+54:21.191	ID:3	--Requesting sensors/button--
+54:21.261	ID:3	|aaaaaaaaaaaaaaa
+54:21.262	ID:3	--Done--
+54:31.191	ID:3	--Requesting sensors/button--
+54:31.249	ID:3	|aaaaaaaaaaaaaaa
+54:31.250	ID:3	--Done--
+54:41.191	ID:3	--Requesting sensors/button--
+54:41.351	ID:3	|aaaaaaaaaaaaaaa
+54:41.351	ID:3	--Done--
+54:51.191	ID:3	--Requesting sensors/button--
+54:51.340	ID:3	|aaaaaaaaaaaaaaa
+54:51.340	ID:3	--Done--
+55:01.191	ID:3	--Requesting sensors/button--
+55:01.327	ID:3	|aaaaaaaaaaaaaaa
+55:01.328	ID:3	--Done--
+55:11.191	ID:3	--Requesting sensors/button--
+55:11.315	ID:3	|aaaaaaaaaaaaaaa
+55:11.316	ID:3	--Done--
+55:21.191	ID:3	--Requesting sensors/button--
+55:21.304	ID:3	|aaaaaaaaaaaaaaa
+55:21.304	ID:3	--Done--
+55:31.191	ID:3	--Requesting sensors/button--
+55:31.405	ID:3	|aaaaaaaaaaaaaaa
+55:31.405	ID:3	--Done--
+55:41.191	ID:3	--Requesting sensors/button--
+55:41.393	ID:3	|aaaaaaaaaaaaaaa
+55:41.394	ID:3	--Done--
+55:51.191	ID:3	--Requesting sensors/button--
+55:51.381	ID:3	|aaaaaaaaaaaaaaa
+55:51.382	ID:3	--Done--
+56:01.191	ID:3	--Requesting sensors/button--
+56:01.369	ID:3	|aaaaaaaaaaaaaaa
+56:01.370	ID:3	--Done--
+56:11.191	ID:3	--Requesting sensors/button--
+56:11.483	ID:3	|aaaaaaaaaaaaaaa
+56:11.483	ID:3	--Done--
+56:21.191	ID:3	--Requesting sensors/button--
+56:21.471	ID:3	|aaaaaaaaaaaaaaa
+56:21.471	ID:3	--Done--
+56:31.191	ID:3	--Requesting sensors/button--
+56:31.459	ID:3	|aaaaaaaaaaaaaaa
+56:31.460	ID:3	--Done--
+56:41.191	ID:3	--Requesting sensors/button--
+56:41.447	ID:3	|aaaaaaaaaaaaaaa
+56:41.448	ID:3	--Done--
+56:51.191	ID:3	--Requesting sensors/button--
+56:51.436	ID:3	|aaaaaaaaaaaaaaa
+56:51.437	ID:3	--Done--
+57:01.191	ID:3	--Requesting sensors/button--
+57:01.423	ID:3	|aaaaaaaaaaaaaaa
+57:01.424	ID:3	--Done--
+57:11.191	ID:3	--Requesting sensors/button--
+57:11.412	ID:3	|aaaaaaaaaaaaaaa
+57:11.412	ID:3	--Done--
+57:21.191	ID:3	--Requesting sensors/button--
+57:21.400	ID:3	|aaaaaaaaaaaaaaa
+57:21.400	ID:3	--Done--
+57:31.191	ID:3	--Requesting sensors/button--
+57:31.388	ID:3	|aaaaaaaaaaaaaaa
+57:31.389	ID:3	--Done--
+57:41.191	ID:3	--Requesting sensors/button--
+57:41.376	ID:3	|aaaaaaaaaaaaaaa
+57:41.377	ID:3	--Done--
+57:51.191	ID:3	--Requesting sensors/button--
+57:51.364	ID:3	|aaaaaaaaaaaaaaa
+57:51.365	ID:3	--Done--
+58:01.191	ID:3	--Requesting sensors/button--
+58:01.477	ID:3	|aaaaaaaaaaaaaaa
+58:01.478	ID:3	--Done--
+58:11.191	ID:3	--Requesting sensors/button--
+58:11.465	ID:3	|aaaaaaaaaaaaaaa
+58:11.466	ID:3	--Done--
+58:21.191	ID:3	--Requesting sensors/button--
+58:21.454	ID:3	|aaaaaaaaaaaaaaa
+58:21.454	ID:3	--Done--
+58:31.191	ID:3	--Requesting sensors/button--
+58:31.442	ID:3	|aaaaaaaaaaaaaaa
+58:31.442	ID:3	--Done--
+58:41.191	ID:3	--Requesting sensors/button--
+58:41.430	ID:3	|aaaaaaaaaaaaaaa
+58:41.431	ID:3	--Done--
+58:51.191	ID:3	--Requesting sensors/button--
+58:51.418	ID:3	|aaaaaaaaaaaaaaa
+58:51.419	ID:3	--Done--
