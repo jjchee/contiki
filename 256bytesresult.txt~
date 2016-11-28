@@ -1,3 +1,27 @@
+00:00.502	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.510	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki 2.7 started. Node id is set to 2.
+00:00.516	ID:2	CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.527	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.529	ID:2	Starting 'Erbium Example Server'
+00:00.659	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.667	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki 2.7 started. Node id is set to 1.
+00:00.675	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.686	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.690	ID:1	Starting 'Border router process' 'Web server'
+00:00.709	ID:1	?PGot configuration message of type P
+00:00.711	ID:1	Setting prefix aaaa::
+00:01.165	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.173	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki 2.7 started. Node id is set to 3.
+00:01.180	ID:3	CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:01.190	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.192	ID:3	Starting 'COAP Client Example'
+00:01.195	ID:3	Press a button to request sensors/button
+00:01.686	ID:1	Server IPv6 addresses:
+00:01.689	ID:1	 aaaa::212:7401:1:101
+00:01.692	ID:1	 fe80::212:7401:1:101
+00:11.191	ID:3	--Requesting sensors/button--
+00:53.263	ID:3	
+00:53.263	ID:3	--Done--
 00:53.266	ID:3	--Requesting sensors/button--
 00:53.828	ID:3	|aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 00:53.829	ID:3	--Done--
