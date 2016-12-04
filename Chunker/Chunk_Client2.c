@@ -44,6 +44,7 @@
 #include "contiki-net.h"
 
 #include "dev/button-sensor.h"
+#include "dev/leds.h"
 
 #if WITH_COAP == 3
 #include "er-coap-03-engine.h"
@@ -97,6 +98,7 @@ static int uri_switch = 0;
 /////////////////////
 int total = 0;
 int payloadSize = 256;
+int resetter = 0;
 /////////////////////
 
 /* This function is will be passed to COAP_BLOCKING_REQUEST() to handle responses. */
@@ -109,6 +111,7 @@ client_chunk_handler(void *response)
 
 /**********************************************************/
 total += len;
+resetter += len;
 char temp[100];
 printf("Chunk size");
   if (chunk) {
@@ -120,12 +123,15 @@ printf("Chunk size");
     if(total == payloadSize) {
       if(strstr(temp, "red") != NULL) {
       printf("Turn Red");
+      leds_on(LEDS_RED);
       }
       if(strstr(temp, "blue") != NULL) {
       printf("Turn Blue");
+      leds_on(LEDS_BLUE);
       }
       if(strstr(temp, "green") != NULL) {
       printf("Turn Green");
+      leds_on(LEDS_GREEN);
       }
     }
 }
@@ -156,7 +162,12 @@ PROCESS_THREAD(coap_client_example, ev, data)
     PROCESS_YIELD();
 #if PLATFORM_HAS_BUTTON
       /* send a request to notify the end of the process */
-
+//////////////////////////////////////////////////////////////////
+if (resetter == (payloadSize*NUMBER_OF_URLS)){
+  leds_off(LEDS_ALL);
+  resetter = 0;
+}
+//////////////////////////////////////////////////////////////////
       coap_init_message(request, COAP_TYPE_CON, COAP_GET, 0);
       coap_set_header_uri_path(request, service_urls[uri_switch]);
 
