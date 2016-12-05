@@ -1,0 +1,229 @@
+00:00.501	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.510	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-2.6-900-ga6227e1 started. Node id is set to 2.
+00:00.518	ID:2	CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.528	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.531	ID:2	Starting 'Erbium Example Server'
+00:00.614	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.622	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki-2.6-900-ga6227e1 started. Node id is set to 4.
+00:00.630	ID:4	CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.641	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.643	ID:4	Starting 'Erbium Example Server'
+00:00.659	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.668	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-2.6-900-ga6227e1 started. Node id is set to 1.
+00:00.677	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.688	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.692	ID:1	Starting 'Border router process' 'Web server'
+00:01.165	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.174	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-2.6-900-ga6227e1 started. Node id is set to 3.
+00:01.182	ID:3	CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:01.192	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.194	ID:3	Starting 'COAP Client Example'
+00:01.198	ID:3	Press a button to request test/togglered
+00:04.191	ID:3	--Requesting test/togglered--
+00:06.837	ID:3	Chunk size payload: 64
+00:06.838	ID:3	Total: 64
+00:06.839	ID:3	Turn Red
+00:06.840	ID:3	--Done--
+00:07.191	ID:3	--Requesting test/toggleblue--
+00:07.222	ID:3	Chunk size payload: 64
+00:07.223	ID:3	Total: 64
+00:07.224	ID:3	Turn Blue
+00:07.225	ID:3	--Done--
+00:10.192	ID:3	--Requesting test/togglegreen--
+00:13.709	ID:1	?P?P?P?P?P?P?P?P?P?P?P?P?P?PGot configuration message of type P
+00:13.712	ID:1	Setting prefix aaaa::
+00:14.694	ID:1	Server IPv6 addresses:
+00:14.697	ID:1	 aaaa::212:7401:1:101
+00:14.700	ID:1	 fe80::212:7401:1:101
+00:44.412	ID:3	
+00:44.413	ID:3	--Done--
+00:44.415	ID:3	--Requesting test/togglered--
+00:44.452	ID:3	Chunk size payload: 64
+00:44.453	ID:3	Total: 64
+00:44.454	ID:3	Turn Red
+00:44.454	ID:3	--Done--
+00:44.457	ID:3	--Requesting test/toggleblue--
+00:46.665	ID:3	Chunk size payload: 64
+00:46.666	ID:3	Total: 64
+00:46.667	ID:3	Turn Blue
+00:46.667	ID:3	--Done--
+00:46.670	ID:3	--Requesting test/togglegreen--
+00:46.855	ID:3	Chunk size payload: 64
+00:46.856	ID:3	Total: 64
+00:46.858	ID:3	Turn Green
+00:46.858	ID:3	--Done--
+00:46.861	ID:3	--Requesting test/togglered--
+00:46.892	ID:3	Chunk size payload: 64
+00:46.893	ID:3	Total: 64
+00:46.894	ID:3	Turn Red
+00:46.894	ID:3	--Done--
+00:46.897	ID:3	--Requesting test/toggleblue--
+00:46.928	ID:3	Chunk size payload: 64
+00:46.929	ID:3	Total: 64
+00:46.930	ID:3	Turn Blue
+00:46.930	ID:3	--Done--
+00:46.933	ID:3	--Requesting test/togglegreen--
+00:47.218	ID:3	Chunk size payload: 64
+00:47.219	ID:3	Total: 64
+00:47.220	ID:3	Turn Green
+00:47.221	ID:3	--Done--
+00:47.223	ID:3	--Requesting test/togglered--
+00:47.255	ID:3	Chunk size payload: 64
+00:47.256	ID:3	Total: 64
+00:47.257	ID:3	Turn Red
+00:47.257	ID:3	--Done--
+00:47.260	ID:3	--Requesting test/toggleblue--
+00:47.291	ID:3	Chunk size payload: 64
+00:47.292	ID:3	Total: 64
+00:47.293	ID:3	Turn Blue
+00:47.293	ID:3	--Done--
+00:47.296	ID:3	--Requesting test/togglegreen--
+00:47.582	ID:3	Chunk size payload: 64
+00:47.582	ID:3	Total: 64
+00:47.584	ID:3	Turn Green
+00:47.584	ID:3	--Done--
+00:47.587	ID:3	--Requesting test/togglered--
+00:47.618	ID:3	Chunk size payload: 64
+00:47.619	ID:3	Total: 64
+00:47.620	ID:3	Turn Red
+00:47.621	ID:3	--Done--
+00:47.623	ID:3	--Requesting test/toggleblue--
+00:47.655	ID:3	Chunk size payload: 64
+00:47.656	ID:3	Total: 64
+00:47.657	ID:3	Turn Blue
+00:47.658	ID:3	--Done--
+00:47.660	ID:3	--Requesting test/togglegreen--
+00:47.945	ID:3	Chunk size payload: 64
+00:47.946	ID:3	Total: 64
+00:47.947	ID:3	Turn Green
+00:47.947	ID:3	--Done--
+00:49.191	ID:3	--Requesting test/togglered--
+00:49.223	ID:3	Chunk size payload: 64
+00:49.224	ID:3	Total: 64
+00:49.225	ID:3	Turn Red
+00:49.225	ID:3	--Done--
+00:52.192	ID:3	--Requesting test/toggleblue--
+00:52.223	ID:3	Chunk size payload: 64
+00:52.223	ID:3	Total: 64
+00:52.224	ID:3	Turn Blue
+00:52.225	ID:3	--Done--
+00:55.192	ID:3	--Requesting test/togglegreen--
+00:55.433	ID:3	Chunk size payload: 64
+00:55.434	ID:3	Total: 64
+00:55.435	ID:3	Turn Green
+00:55.436	ID:3	--Done--
+00:58.191	ID:3	--Requesting test/togglered--
+00:58.223	ID:3	Chunk size payload: 64
+00:58.224	ID:3	Total: 64
+00:58.225	ID:3	Turn Red
+00:58.225	ID:3	--Done--
+01:01.192	ID:3	--Requesting test/toggleblue--
+01:01.223	ID:3	Chunk size payload: 64
+01:01.223	ID:3	Total: 64
+01:01.224	ID:3	Turn Blue
+01:01.225	ID:3	--Done--
+01:04.192	ID:3	--Requesting test/togglegreen--
+01:04.421	ID:3	Chunk size payload: 64
+01:04.422	ID:3	Total: 64
+01:04.423	ID:3	Turn Green
+01:04.424	ID:3	--Done--
+01:07.191	ID:3	--Requesting test/togglered--
+01:07.223	ID:3	Chunk size payload: 64
+01:07.224	ID:3	Total: 64
+01:07.225	ID:3	Turn Red
+01:07.225	ID:3	--Done--
+01:10.192	ID:3	--Requesting test/toggleblue--
+01:10.223	ID:3	Chunk size payload: 64
+01:10.223	ID:3	Total: 64
+01:10.224	ID:3	Turn Blue
+01:10.225	ID:3	--Done--
+01:13.192	ID:3	--Requesting test/togglegreen--
+01:13.409	ID:3	Chunk size payload: 64
+01:13.410	ID:3	Total: 64
+01:13.411	ID:3	Turn Green
+01:13.412	ID:3	--Done--
+01:16.191	ID:3	--Requesting test/togglered--
+01:16.223	ID:3	Chunk size payload: 64
+01:16.224	ID:3	Total: 64
+01:16.225	ID:3	Turn Red
+01:16.225	ID:3	--Done--
+01:19.192	ID:3	--Requesting test/toggleblue--
+01:19.223	ID:3	Chunk size payload: 64
+01:19.223	ID:3	Total: 64
+01:19.224	ID:3	Turn Blue
+01:19.225	ID:3	--Done--
+01:22.192	ID:3	--Requesting test/togglegreen--
+01:22.397	ID:3	Chunk size payload: 64
+01:22.398	ID:3	Total: 64
+01:22.399	ID:3	Turn Green
+01:22.400	ID:3	--Done--
+01:25.191	ID:3	--Requesting test/togglered--
+01:25.223	ID:3	Chunk size payload: 64
+01:25.224	ID:3	Total: 64
+01:25.225	ID:3	Turn Red
+01:25.225	ID:3	--Done--
+01:28.192	ID:3	--Requesting test/toggleblue--
+01:28.223	ID:3	Chunk size payload: 64
+01:28.223	ID:3	Total: 64
+01:28.224	ID:3	Turn Blue
+01:28.225	ID:3	--Done--
+01:31.192	ID:3	--Requesting test/togglegreen--
+01:31.510	ID:3	Chunk size payload: 64
+01:31.511	ID:3	Total: 64
+01:31.512	ID:3	Turn Green
+01:31.513	ID:3	--Done--
+01:34.191	ID:3	--Requesting test/togglered--
+01:34.223	ID:3	Chunk size payload: 64
+01:34.224	ID:3	Total: 64
+01:34.225	ID:3	Turn Red
+01:34.225	ID:3	--Done--
+01:37.192	ID:3	--Requesting test/toggleblue--
+01:37.223	ID:3	Chunk size payload: 64
+01:37.223	ID:3	Total: 64
+01:37.224	ID:3	Turn Blue
+01:37.225	ID:3	--Done--
+01:40.192	ID:3	--Requesting test/togglegreen--
+01:40.499	ID:3	Chunk size payload: 64
+01:40.499	ID:3	Total: 64
+01:40.501	ID:3	Turn Green
+01:40.501	ID:3	--Done--
+01:43.191	ID:3	--Requesting test/togglered--
+01:43.223	ID:3	Chunk size payload: 64
+01:43.224	ID:3	Total: 64
+01:43.225	ID:3	Turn Red
+01:43.225	ID:3	--Done--
+01:46.192	ID:3	--Requesting test/toggleblue--
+01:46.223	ID:3	Chunk size payload: 64
+01:46.223	ID:3	Total: 64
+01:46.224	ID:3	Turn Blue
+01:46.225	ID:3	--Done--
+01:49.192	ID:3	--Requesting test/togglegreen--
+01:49.487	ID:3	Chunk size payload: 64
+01:49.488	ID:3	Total: 64
+01:49.489	ID:3	Turn Green
+01:49.490	ID:3	--Done--
+01:52.191	ID:3	--Requesting test/togglered--
+01:52.223	ID:3	Chunk size payload: 64
+01:52.224	ID:3	Total: 64
+01:52.225	ID:3	Turn Red
+01:52.225	ID:3	--Done--
+01:55.192	ID:3	--Requesting test/toggleblue--
+01:55.223	ID:3	Chunk size payload: 64
+01:55.223	ID:3	Total: 64
+01:55.224	ID:3	Turn Blue
+01:55.225	ID:3	--Done--
+01:58.192	ID:3	--Requesting test/togglegreen--
+01:58.475	ID:3	Chunk size payload: 64
+01:58.476	ID:3	Total: 64
+01:58.477	ID:3	Turn Green
+01:58.478	ID:3	--Done--
+02:01.191	ID:3	--Requesting test/togglered--
+02:01.223	ID:3	Chunk size payload: 64
+02:01.224	ID:3	Total: 64
+02:01.225	ID:3	Turn Red
+02:01.225	ID:3	--Done--
+02:04.192	ID:3	--Requesting test/toggleblue--
+02:04.223	ID:3	Chunk size payload: 64
+02:04.223	ID:3	Total: 64
+02:04.224	ID:3	Turn Blue
+02:04.225	ID:3	--Done--
