@@ -1,0 +1,556 @@
+00:00.501	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.510	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-2.6-900-ga6227e1 started. Node id is set to 2.
+00:00.518	ID:2	CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.528	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.531	ID:2	Starting 'Erbium Example Server'
+00:00.659	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.668	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-2.6-900-ga6227e1 started. Node id is set to 1.
+00:00.677	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.688	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.692	ID:1	Starting 'Border router process' 'Web server'
+00:01.165	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.174	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-2.6-900-ga6227e1 started. Node id is set to 3.
+00:01.182	ID:3	CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:01.192	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.194	ID:3	Starting 'COAP Client Example'
+00:01.198	ID:3	Press a button to request test/togglered
+00:03.709	ID:1	?P?P?P?PGot configuration message of type P
+00:03.711	ID:1	Setting prefix aaaa::
+00:04.191	ID:3	--Requesting test/togglered--
+00:04.694	ID:1	Server IPv6 addresses:
+00:04.697	ID:1	 aaaa::212:7401:1:101
+00:04.700	ID:1	 fe80::212:7401:1:101
+00:43.450	ID:3	
+00:43.451	ID:3	--Done--
+00:43.454	ID:3	--Requesting test/toggleblue--
+00:44.000	ID:3	Chunk size payload: 64
+00:44.000	ID:3	Total: 64
+00:44.238	ID:3	Chunk size payload: 64
+00:44.239	ID:3	Total: 128
+00:44.601	ID:3	Chunk size payload: 64
+00:44.602	ID:3	Total: 192
+00:44.839	ID:3	Chunk size payload: 64
+00:44.840	ID:3	Total: 256
+00:45.202	ID:3	Chunk size payload: 64
+00:45.203	ID:3	Total: 320
+00:45.440	ID:3	Chunk size payload: 64
+00:45.441	ID:3	Total: 384
+00:45.803	ID:3	Chunk size payload: 64
+00:45.804	ID:3	Total: 448
+00:46.042	ID:3	Chunk size payload: 64
+00:46.043	ID:3	Total: 512
+00:46.405	ID:3	Chunk size payload: 64
+00:46.406	ID:3	Total: 576
+00:46.643	ID:3	Chunk size payload: 64
+00:46.644	ID:3	Total: 640
+00:46.881	ID:3	Chunk size payload: 64
+00:46.882	ID:3	Total: 704
+00:47.119	ID:3	Chunk size payload: 64
+00:47.120	ID:3	Total: 768
+00:47.358	ID:3	Chunk size payload: 64
+00:47.359	ID:3	Total: 832
+00:47.596	ID:3	Chunk size payload: 64
+00:47.597	ID:3	Total: 896
+00:47.834	ID:3	Chunk size payload: 64
+00:47.835	ID:3	Total: 960
+00:48.072	ID:3	Chunk size payload: 64
+00:48.073	ID:3	Total: 1024
+00:48.074	ID:3	Turn Blue
+00:48.075	ID:3	--Done--
+00:48.077	ID:3	--Requesting test/togglegreen--
+00:48.310	ID:3	Chunk size payload: 64
+00:48.311	ID:3	Total: 64
+00:48.548	ID:3	Chunk size payload: 64
+00:48.549	ID:3	Total: 128
+00:48.786	ID:3	Chunk size payload: 64
+00:48.787	ID:3	Total: 192
+00:49.024	ID:3	Chunk size payload: 64
+00:49.025	ID:3	Total: 256
+00:49.263	ID:3	Chunk size payload: 64
+00:49.264	ID:3	Total: 320
+00:49.501	ID:3	Chunk size payload: 64
+00:49.502	ID:3	Total: 384
+00:49.739	ID:3	Chunk size payload: 64
+00:49.740	ID:3	Total: 448
+00:49.978	ID:3	Chunk size payload: 64
+00:49.979	ID:3	Total: 512
+00:50.216	ID:3	Chunk size payload: 64
+00:50.217	ID:3	Total: 576
+00:50.454	ID:3	Chunk size payload: 64
+00:50.455	ID:3	Total: 640
+00:50.692	ID:3	Chunk size payload: 64
+00:50.693	ID:3	Total: 704
+00:51.055	ID:3	Chunk size payload: 64
+00:51.056	ID:3	Total: 768
+00:51.293	ID:3	Chunk size payload: 64
+00:51.294	ID:3	Total: 832
+00:51.531	ID:3	Chunk size payload: 64
+00:51.532	ID:3	Total: 896
+00:51.770	ID:3	Chunk size payload: 64
+00:51.771	ID:3	Total: 960
+00:52.132	ID:3	Chunk size payload: 64
+00:52.134	ID:3	Total: 1024
+00:52.135	ID:3	Turn Green
+00:52.135	ID:3	--Done--
+00:52.138	ID:3	--Requesting test/togglered--
+00:52.371	ID:3	Chunk size payload: 64
+00:52.372	ID:3	Total: 64
+00:52.734	ID:3	Chunk size payload: 64
+00:52.735	ID:3	Total: 128
+00:52.972	ID:3	Chunk size payload: 64
+00:52.973	ID:3	Total: 192
+00:53.335	ID:3	Chunk size payload: 64
+00:53.336	ID:3	Total: 256
+00:53.573	ID:3	Chunk size payload: 64
+00:53.574	ID:3	Total: 320
+00:53.936	ID:3	Chunk size payload: 64
+00:53.937	ID:3	Total: 384
+00:54.175	ID:3	Chunk size payload: 64
+00:54.176	ID:3	Total: 448
+00:54.538	ID:3	Chunk size payload: 64
+00:54.539	ID:3	Total: 512
+00:54.776	ID:3	Chunk size payload: 64
+00:54.777	ID:3	Total: 576
+00:55.014	ID:3	Chunk size payload: 64
+00:55.015	ID:3	Total: 640
+00:55.252	ID:3	Chunk size payload: 64
+00:55.253	ID:3	Total: 704
+00:55.490	ID:3	Chunk size payload: 64
+00:55.491	ID:3	Total: 768
+00:55.728	ID:3	Chunk size payload: 64
+00:55.729	ID:3	Total: 832
+00:56.322	ID:3	Chunk size payload: 64
+00:56.323	ID:3	Total: 896
+00:56.568	ID:3	Chunk size payload: 64
+00:56.569	ID:3	Total: 960
+00:56.806	ID:3	Chunk size payload: 64
+00:56.807	ID:3	Total: 1024
+00:56.808	ID:3	Turn Red
+00:56.809	ID:3	--Done--
+00:56.812	ID:3	--Requesting test/toggleblue--
+00:57.044	ID:3	Chunk size payload: 64
+00:57.045	ID:3	Total: 64
+00:57.282	ID:3	Chunk size payload: 64
+00:57.283	ID:3	Total: 128
+00:57.521	ID:3	Chunk size payload: 64
+00:57.522	ID:3	Total: 192
+00:57.759	ID:3	Chunk size payload: 64
+00:57.760	ID:3	Total: 256
+00:57.997	ID:3	Chunk size payload: 64
+00:57.998	ID:3	Total: 320
+00:58.235	ID:3	Chunk size payload: 64
+00:58.236	ID:3	Total: 384
+00:58.473	ID:3	Chunk size payload: 64
+00:58.474	ID:3	Total: 448
+00:58.711	ID:3	Chunk size payload: 64
+00:58.712	ID:3	Total: 512
+00:58.950	ID:3	Chunk size payload: 64
+00:58.951	ID:3	Total: 576
+00:59.188	ID:3	Chunk size payload: 64
+00:59.189	ID:3	Total: 640
+00:59.426	ID:3	Chunk size payload: 64
+00:59.427	ID:3	Total: 704
+00:59.664	ID:3	Chunk size payload: 64
+00:59.665	ID:3	Total: 768
+00:59.902	ID:3	Chunk size payload: 64
+00:59.903	ID:3	Total: 832
+01:00.140	ID:3	Chunk size payload: 64
+01:00.141	ID:3	Total: 896
+01:00.378	ID:3	Chunk size payload: 64
+01:00.379	ID:3	Total: 960
+01:00.616	ID:3	Chunk size payload: 64
+01:00.617	ID:3	Total: 1024
+01:00.619	ID:3	Turn Blue
+01:00.619	ID:3	--Done--
+01:00.622	ID:3	--Requesting test/togglegreen--
+01:00.855	ID:3	Chunk size payload: 64
+01:00.855	ID:3	Total: 64
+01:01.218	ID:3	Chunk size payload: 64
+01:01.219	ID:3	Total: 128
+01:01.456	ID:3	Chunk size payload: 64
+01:01.457	ID:3	Total: 192
+01:01.694	ID:3	Chunk size payload: 64
+01:01.695	ID:3	Total: 256
+01:01.932	ID:3	Chunk size payload: 64
+01:01.933	ID:3	Total: 320
+01:02.170	ID:3	Chunk size payload: 64
+01:02.171	ID:3	Total: 384
+01:02.409	ID:3	Chunk size payload: 64
+01:02.410	ID:3	Total: 448
+01:02.647	ID:3	Chunk size payload: 64
+01:02.648	ID:3	Total: 512
+01:02.885	ID:3	Chunk size payload: 64
+01:02.886	ID:3	Total: 576
+01:03.123	ID:3	Chunk size payload: 64
+01:03.124	ID:3	Total: 640
+01:03.361	ID:3	Chunk size payload: 64
+01:03.362	ID:3	Total: 704
+01:03.599	ID:3	Chunk size payload: 64
+01:03.600	ID:3	Total: 768
+01:03.837	ID:3	Chunk size payload: 64
+01:03.838	ID:3	Total: 832
+01:04.076	ID:3	Chunk size payload: 64
+01:04.077	ID:3	Total: 896
+01:04.314	ID:3	Chunk size payload: 64
+01:04.315	ID:3	Total: 960
+01:04.552	ID:3	Chunk size payload: 64
+01:04.553	ID:3	Total: 1024
+01:04.554	ID:3	Turn Green
+01:04.555	ID:3	--Done--
+01:04.557	ID:3	--Requesting test/togglered--
+01:04.790	ID:3	Chunk size payload: 64
+01:04.791	ID:3	Total: 64
+01:05.029	ID:3	Chunk size payload: 64
+01:05.030	ID:3	Total: 128
+01:05.266	ID:3	Chunk size payload: 64
+01:05.267	ID:3	Total: 192
+01:05.505	ID:3	Chunk size payload: 64
+01:05.505	ID:3	Total: 256
+01:05.743	ID:3	Chunk size payload: 64
+01:05.744	ID:3	Total: 320
+01:05.981	ID:3	Chunk size payload: 64
+01:05.982	ID:3	Total: 384
+01:06.219	ID:3	Chunk size payload: 64
+01:06.220	ID:3	Total: 448
+01:06.457	ID:3	Chunk size payload: 64
+01:06.458	ID:3	Total: 512
+01:06.695	ID:3	Chunk size payload: 64
+01:06.696	ID:3	Total: 576
+01:06.933	ID:3	Chunk size payload: 64
+01:06.934	ID:3	Total: 640
+01:07.171	ID:3	Chunk size payload: 64
+01:07.172	ID:3	Total: 704
+01:07.410	ID:3	Chunk size payload: 64
+01:07.411	ID:3	Total: 768
+01:07.648	ID:3	Chunk size payload: 64
+01:07.649	ID:3	Total: 832
+01:07.886	ID:3	Chunk size payload: 64
+01:07.887	ID:3	Total: 896
+01:08.124	ID:3	Chunk size payload: 64
+01:08.125	ID:3	Total: 960
+01:08.362	ID:3	Chunk size payload: 64
+01:08.363	ID:3	Total: 1024
+01:08.364	ID:3	Turn Red
+01:08.365	ID:3	--Done--
+01:08.367	ID:3	--Requesting test/toggleblue--
+01:08.600	ID:3	Chunk size payload: 64
+01:08.601	ID:3	Total: 64
+01:08.838	ID:3	Chunk size payload: 64
+01:08.839	ID:3	Total: 128
+01:09.076	ID:3	Chunk size payload: 64
+01:09.077	ID:3	Total: 192
+01:09.315	ID:3	Chunk size payload: 64
+01:09.316	ID:3	Total: 256
+01:09.553	ID:3	Chunk size payload: 64
+01:09.554	ID:3	Total: 320
+01:09.791	ID:3	Chunk size payload: 64
+01:09.792	ID:3	Total: 384
+01:10.029	ID:3	Chunk size payload: 64
+01:10.030	ID:3	Total: 448
+01:10.267	ID:3	Chunk size payload: 64
+01:10.268	ID:3	Total: 512
+01:10.505	ID:3	Chunk size payload: 64
+01:10.506	ID:3	Total: 576
+01:10.744	ID:3	Chunk size payload: 64
+01:10.745	ID:3	Total: 640
+01:10.982	ID:3	Chunk size payload: 64
+01:10.983	ID:3	Total: 704
+01:11.220	ID:3	Chunk size payload: 64
+01:11.221	ID:3	Total: 768
+01:11.458	ID:3	Chunk size payload: 64
+01:11.459	ID:3	Total: 832
+01:11.696	ID:3	Chunk size payload: 64
+01:11.697	ID:3	Total: 896
+01:11.934	ID:3	Chunk size payload: 64
+01:11.935	ID:3	Total: 960
+01:12.172	ID:3	Chunk size payload: 64
+01:12.174	ID:3	Total: 1024
+01:12.175	ID:3	Turn Blue
+01:12.175	ID:3	--Done--
+01:12.178	ID:3	--Requesting test/togglegreen--
+01:12.411	ID:3	Chunk size payload: 64
+01:12.412	ID:3	Total: 64
+01:12.649	ID:3	Chunk size payload: 64
+01:12.650	ID:3	Total: 128
+01:12.887	ID:3	Chunk size payload: 64
+01:12.888	ID:3	Total: 192
+01:13.125	ID:3	Chunk size payload: 64
+01:13.126	ID:3	Total: 256
+01:13.363	ID:3	Chunk size payload: 64
+01:13.364	ID:3	Total: 320
+01:13.601	ID:3	Chunk size payload: 64
+01:13.602	ID:3	Total: 384
+01:13.965	ID:3	Chunk size payload: 64
+01:13.966	ID:3	Total: 448
+01:14.203	ID:3	Chunk size payload: 64
+01:14.204	ID:3	Total: 512
+01:14.441	ID:3	Chunk size payload: 64
+01:14.442	ID:3	Total: 576
+01:14.679	ID:3	Chunk size payload: 64
+01:14.680	ID:3	Total: 640
+01:14.917	ID:3	Chunk size payload: 64
+01:14.918	ID:3	Total: 704
+01:15.155	ID:3	Chunk size payload: 64
+01:15.156	ID:3	Total: 768
+01:15.394	ID:3	Chunk size payload: 64
+01:15.395	ID:3	Total: 832
+01:15.632	ID:3	Chunk size payload: 64
+01:15.633	ID:3	Total: 896
+01:15.870	ID:3	Chunk size payload: 64
+01:15.871	ID:3	Total: 960
+01:16.108	ID:3	Chunk size payload: 64
+01:16.109	ID:3	Total: 1024
+01:16.110	ID:3	Turn Green
+01:16.111	ID:3	--Done--
+01:16.113	ID:3	--Requesting test/togglered--
+01:16.346	ID:3	Chunk size payload: 64
+01:16.347	ID:3	Total: 64
+01:16.584	ID:3	Chunk size payload: 64
+01:16.585	ID:3	Total: 128
+01:16.823	ID:3	Chunk size payload: 64
+01:16.824	ID:3	Total: 192
+01:17.061	ID:3	Chunk size payload: 64
+01:17.062	ID:3	Total: 256
+01:17.299	ID:3	Chunk size payload: 64
+01:17.300	ID:3	Total: 320
+01:17.537	ID:3	Chunk size payload: 64
+01:17.538	ID:3	Total: 384
+01:17.775	ID:3	Chunk size payload: 64
+01:17.776	ID:3	Total: 448
+01:18.013	ID:3	Chunk size payload: 64
+01:18.014	ID:3	Total: 512
+01:18.252	ID:3	Chunk size payload: 64
+01:18.253	ID:3	Total: 576
+01:18.490	ID:3	Chunk size payload: 64
+01:18.491	ID:3	Total: 640
+01:18.728	ID:3	Chunk size payload: 64
+01:18.729	ID:3	Total: 704
+01:18.966	ID:3	Chunk size payload: 64
+01:18.967	ID:3	Total: 768
+01:19.204	ID:3	Chunk size payload: 64
+01:19.205	ID:3	Total: 832
+01:19.443	ID:3	Chunk size payload: 64
+01:19.443	ID:3	Total: 896
+01:19.681	ID:3	Chunk size payload: 64
+01:19.682	ID:3	Total: 960
+01:19.919	ID:3	Chunk size payload: 64
+01:19.920	ID:3	Total: 1024
+01:19.921	ID:3	Turn Red
+01:19.922	ID:3	--Done--
+01:19.924	ID:3	--Requesting test/toggleblue--
+01:20.157	ID:3	Chunk size payload: 64
+01:20.158	ID:3	Total: 64
+01:20.395	ID:3	Chunk size payload: 64
+01:20.396	ID:3	Total: 128
+01:20.633	ID:3	Chunk size payload: 64
+01:20.634	ID:3	Total: 192
+01:20.997	ID:3	Chunk size payload: 64
+01:20.998	ID:3	Total: 256
+01:21.235	ID:3	Chunk size payload: 64
+01:21.236	ID:3	Total: 320
+01:21.473	ID:3	Chunk size payload: 64
+01:21.474	ID:3	Total: 384
+01:21.711	ID:3	Chunk size payload: 64
+01:21.712	ID:3	Total: 448
+01:21.949	ID:3	Chunk size payload: 64
+01:21.950	ID:3	Total: 512
+01:22.188	ID:3	Chunk size payload: 64
+01:22.189	ID:3	Total: 576
+01:22.425	ID:3	Chunk size payload: 64
+01:22.426	ID:3	Total: 640
+01:22.663	ID:3	Chunk size payload: 64
+01:22.664	ID:3	Total: 704
+01:22.902	ID:3	Chunk size payload: 64
+01:22.903	ID:3	Total: 768
+01:23.140	ID:3	Chunk size payload: 64
+01:23.141	ID:3	Total: 832
+01:23.378	ID:3	Chunk size payload: 64
+01:23.379	ID:3	Total: 896
+01:23.616	ID:3	Chunk size payload: 64
+01:23.617	ID:3	Total: 960
+01:23.854	ID:3	Chunk size payload: 64
+01:23.855	ID:3	Total: 1024
+01:23.856	ID:3	Turn Blue
+01:23.857	ID:3	--Done--
+01:23.859	ID:3	--Requesting test/togglegreen--
+01:24.092	ID:3	Chunk size payload: 64
+01:24.093	ID:3	Total: 64
+01:24.330	ID:3	Chunk size payload: 64
+01:24.331	ID:3	Total: 128
+01:24.568	ID:3	Chunk size payload: 64
+01:24.569	ID:3	Total: 192
+01:24.806	ID:3	Chunk size payload: 64
+01:24.807	ID:3	Total: 256
+01:25.045	ID:3	Chunk size payload: 64
+01:25.046	ID:3	Total: 320
+01:25.283	ID:3	Chunk size payload: 64
+01:25.284	ID:3	Total: 384
+01:25.521	ID:3	Chunk size payload: 64
+01:25.522	ID:3	Total: 448
+01:25.760	ID:3	Chunk size payload: 64
+01:25.761	ID:3	Total: 512
+01:25.997	ID:3	Chunk size payload: 64
+01:25.998	ID:3	Total: 576
+01:26.236	ID:3	Chunk size payload: 64
+01:26.237	ID:3	Total: 640
+01:26.474	ID:3	Chunk size payload: 64
+01:26.475	ID:3	Total: 704
+01:26.712	ID:3	Chunk size payload: 64
+01:26.713	ID:3	Total: 768
+01:26.950	ID:3	Chunk size payload: 64
+01:26.951	ID:3	Total: 832
+01:27.188	ID:3	Chunk size payload: 64
+01:27.189	ID:3	Total: 896
+01:27.426	ID:3	Chunk size payload: 64
+01:27.427	ID:3	Total: 960
+01:27.664	ID:3	Chunk size payload: 64
+01:27.666	ID:3	Total: 1024
+01:27.667	ID:3	Turn Green
+01:27.667	ID:3	--Done--
+01:27.670	ID:3	--Requesting test/togglered--
+01:27.903	ID:3	Chunk size payload: 64
+01:27.904	ID:3	Total: 64
+01:28.141	ID:3	Chunk size payload: 64
+01:28.142	ID:3	Total: 128
+01:28.379	ID:3	Chunk size payload: 64
+01:28.380	ID:3	Total: 192
+01:28.617	ID:3	Chunk size payload: 64
+01:28.618	ID:3	Total: 256
+01:28.855	ID:3	Chunk size payload: 64
+01:28.856	ID:3	Total: 320
+01:29.093	ID:3	Chunk size payload: 64
+01:29.094	ID:3	Total: 384
+01:29.331	ID:3	Chunk size payload: 64
+01:29.332	ID:3	Total: 448
+01:29.569	ID:3	Chunk size payload: 64
+01:29.570	ID:3	Total: 512
+01:29.808	ID:3	Chunk size payload: 64
+01:29.809	ID:3	Total: 576
+01:30.046	ID:3	Chunk size payload: 64
+01:30.047	ID:3	Total: 640
+01:30.284	ID:3	Chunk size payload: 64
+01:30.285	ID:3	Total: 704
+01:30.522	ID:3	Chunk size payload: 64
+01:30.523	ID:3	Total: 768
+01:30.760	ID:3	Chunk size payload: 64
+01:30.761	ID:3	Total: 832
+01:30.999	ID:3	Chunk size payload: 64
+01:31.000	ID:3	Total: 896
+01:31.237	ID:3	Chunk size payload: 64
+01:31.238	ID:3	Total: 960
+01:31.475	ID:3	Chunk size payload: 64
+01:31.476	ID:3	Total: 1024
+01:31.477	ID:3	Turn Red
+01:31.477	ID:3	--Done--
+01:31.480	ID:3	--Requesting test/toggleblue--
+01:31.713	ID:3	Chunk size payload: 64
+01:31.714	ID:3	Total: 64
+01:31.951	ID:3	Chunk size payload: 64
+01:31.952	ID:3	Total: 128
+01:32.189	ID:3	Chunk size payload: 64
+01:32.190	ID:3	Total: 192
+01:32.427	ID:3	Chunk size payload: 64
+01:32.428	ID:3	Total: 256
+01:32.665	ID:3	Chunk size payload: 64
+01:32.666	ID:3	Total: 320
+01:32.904	ID:3	Chunk size payload: 64
+01:32.904	ID:3	Total: 384
+01:33.142	ID:3	Chunk size payload: 64
+01:33.143	ID:3	Total: 448
+01:33.380	ID:3	Chunk size payload: 64
+01:33.381	ID:3	Total: 512
+01:33.618	ID:3	Chunk size payload: 64
+01:33.619	ID:3	Total: 576
+01:33.856	ID:3	Chunk size payload: 64
+01:33.857	ID:3	Total: 640
+01:34.094	ID:3	Chunk size payload: 64
+01:34.095	ID:3	Total: 704
+01:34.333	ID:3	Chunk size payload: 64
+01:34.334	ID:3	Total: 768
+01:34.571	ID:3	Chunk size payload: 64
+01:34.572	ID:3	Total: 832
+01:34.809	ID:3	Chunk size payload: 64
+01:34.810	ID:3	Total: 896
+01:35.047	ID:3	Chunk size payload: 64
+01:35.048	ID:3	Total: 960
+01:35.285	ID:3	Chunk size payload: 64
+01:35.286	ID:3	Total: 1024
+01:35.287	ID:3	Turn Blue
+01:35.288	ID:3	--Done--
+01:35.290	ID:3	--Requesting test/togglegreen--
+01:35.648	ID:3	Chunk size payload: 64
+01:35.649	ID:3	Total: 64
+01:35.886	ID:3	Chunk size payload: 64
+01:35.887	ID:3	Total: 128
+01:36.124	ID:3	Chunk size payload: 64
+01:36.125	ID:3	Total: 192
+01:36.363	ID:3	Chunk size payload: 64
+01:36.364	ID:3	Total: 256
+01:36.601	ID:3	Chunk size payload: 64
+01:36.602	ID:3	Total: 320
+01:36.839	ID:3	Chunk size payload: 64
+01:36.840	ID:3	Total: 384
+01:37.077	ID:3	Chunk size payload: 64
+01:37.078	ID:3	Total: 448
+01:37.316	ID:3	Chunk size payload: 64
+01:37.317	ID:3	Total: 512
+01:37.553	ID:3	Chunk size payload: 64
+01:37.554	ID:3	Total: 576
+01:37.792	ID:3	Chunk size payload: 64
+01:37.793	ID:3	Total: 640
+01:38.030	ID:3	Chunk size payload: 64
+01:38.031	ID:3	Total: 704
+01:38.268	ID:3	Chunk size payload: 64
+01:38.269	ID:3	Total: 768
+01:38.506	ID:3	Chunk size payload: 64
+01:38.507	ID:3	Total: 832
+01:38.744	ID:3	Chunk size payload: 64
+01:38.745	ID:3	Total: 896
+01:38.982	ID:3	Chunk size payload: 64
+01:38.983	ID:3	Total: 960
+01:39.221	ID:3	Chunk size payload: 64
+01:39.222	ID:3	Total: 1024
+01:39.223	ID:3	Turn Green
+01:39.223	ID:3	--Done--
+01:39.226	ID:3	--Requesting test/togglered--
+01:39.459	ID:3	Chunk size payload: 64
+01:39.460	ID:3	Total: 64
+01:39.697	ID:3	Chunk size payload: 64
+01:39.698	ID:3	Total: 128
+01:39.935	ID:3	Chunk size payload: 64
+01:39.936	ID:3	Total: 192
+01:40.173	ID:3	Chunk size payload: 64
+01:40.174	ID:3	Total: 256
+01:40.411	ID:3	Chunk size payload: 64
+01:40.412	ID:3	Total: 320
+01:40.649	ID:3	Chunk size payload: 64
+01:40.650	ID:3	Total: 384
+01:40.888	ID:3	Chunk size payload: 64
+01:40.889	ID:3	Total: 448
+01:41.126	ID:3	Chunk size payload: 64
+01:41.127	ID:3	Total: 512
+01:41.364	ID:3	Chunk size payload: 64
+01:41.365	ID:3	Total: 576
+01:41.602	ID:3	Chunk size payload: 64
+01:41.603	ID:3	Total: 640
+01:41.840	ID:3	Chunk size payload: 64
+01:41.841	ID:3	Total: 704
+01:42.078	ID:3	Chunk size payload: 64
+01:42.079	ID:3	Total: 768
+01:42.317	ID:3	Chunk size payload: 64
+01:42.318	ID:3	Total: 832
+01:42.555	ID:3	Chunk size payload: 64
+01:42.556	ID:3	Total: 896
+01:42.793	ID:3	Chunk size payload: 64
+01:42.794	ID:3	Total: 960
+01:43.031	ID:3	Chunk size payload: 64
+01:43.032	ID:3	Total: 1024
+01:43.033	ID:3	Turn Red
+01:43.034	ID:3	--Done--
+01:43.036	ID:3	--Requesting test/toggleblue--
+01:43.269	ID:3	Chunk size payload: 64
+01:43.270	ID:3	Total: 64
+01:43.507	ID:3	Chunk size payload: 64
+01:43.508	ID:3	Total: 128
+01:43.746	ID:3	Chunk size payload: 64
+01:43.747	ID:3	Total: 192
